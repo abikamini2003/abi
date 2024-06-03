@@ -1,0 +1,14 @@
+li:hover{
+    color:red;
+    }
+    .n{
+        display: inline-flex;
+        
+
+        
+        list-style-type: none;
+    }
+    li{
+        text-decoration: none;
+    margin-left: 35px;
+    }
